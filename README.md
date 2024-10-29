@@ -34,7 +34,7 @@ O projeto é composto por duas classes principais:
 2. Execute o seguinte comando no terminal:
 
    ```bash
-   java -jar socket-server-java.jar
+   java -jar socketserver.jar
 
 - Este comando iniciará a GUI, onde você poderá configurar o IP e a Porta para o servidor, além de iniciar/parar o servidor e gerenciar a comunicação com os clientes conectados.
 
