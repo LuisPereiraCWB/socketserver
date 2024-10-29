@@ -30,7 +30,7 @@ O projeto é composto por duas classes principais:
 
 ### Executando o .jar
 
-1. Navegue até o diretório onde o arquivo `.jar` está localizado (por exemplo, `target/socket-server.jar`).
+1. Navegue até o diretório onde o arquivo `.jar` está localizado (por exemplo, `target/socketserver.jar`).
 2. Execute o seguinte comando no terminal:
 
    ```bash
