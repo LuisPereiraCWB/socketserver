@@ -1,0 +1,4 @@
+out. 29, 2024 12:33:44 AM com.test.socketserver.SocketServer start
+INFORMAÇÕES: Servidor iniciado em 127.0.0.1 na porta: 3000
+out. 29, 2024 12:33:48 AM com.test.socketserver.SocketServer stop
+INFORMAÇÕES: Servidor parado.
